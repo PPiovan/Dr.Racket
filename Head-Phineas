@@ -1,4 +1,5 @@
 (define head-phineas  (place-image(circle 2.5 "solid" "black")75 29
+                                  (place-image(rectangle 10 10 "solid" "pink") 85 70
                             (place-image(circle 7.5 "solid" "white")75 29
                              (place-image(rectangle 10 5 "solid""white") 55 50
                               (place-image(rectangle 12 7 "solid""black") 55 50           
@@ -7,6 +8,6 @@
                              (place-image(star 25 "solid""Orange Red") 86 30
                             
                             
-                            (square 100 "solid" "black"))))))))
+                            (square 100 "solid" "black")))))))))
 
 head-phineas
